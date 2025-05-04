@@ -1,3 +1,3 @@
 function myFunction(){
-    alert("Jangan di KLIK woi");
+    alert("Kan uda dibilangin juga apa, jangan diklik");
 }
