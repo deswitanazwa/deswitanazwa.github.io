@@ -1,0 +1,10 @@
+I"7<p>penjelasan mengenai HTML.</p>
+
+<p><b>HTML</b> adalah singkatan dari <i>Hypertext Markup Language</i>. HTML adalah bahasa markup standar yang digunakan untuk membuat halaman website dan aplikasi web. Bahasa ini diciptakan oleh <i>Tim Berners-Lee</i>, seorang ahli fisika di lembaga penelitian CERN yang berlokasi di Swiss.</p>
+
+<p><img src="/assets/image/penemu.jpeg" alt="HTML" width="300" /></p>
+
+<p>HTML digunakan untuk menyusun bagian paragraf, heading, maupun link pada halaman web. Meskipun susunannya mirip dengan coding, HTML bukannlah bahasa pemograman karena tidak bisa memiliki fungsi yang dinamis. HTML dianggap sebagai standar web resmi dan dikelola oleh World Wide Consortium (W3C), yang juga bertugas merilis pembaruan rutin HTML.<br /><br />HTML bekerja dengan menggunakan struktur kode sederhana yang terdiri dari tag dan attribute untuk markup halaman website. misalnya, untuk membuat sebuah paragraf, Anda menempatkan teks diantara tag pembuka &lt; p &gt; dan tag penutup &lt; /p &gt; . Untuk struktur bagian utama dalam HTML sendiri memiliki 4 bagian, yaitu tag <i>DOCTYPE</i>, tag <i>html</i>, tag <i>head</i>, dan tag <i>body</i>.</p>
+
+<p>Fungsi utama penggunaan HTML sendiri adalah membangun tampilan website yang telah menerapkan metode semnatik untuk memudahkan setiap pengembang dalam proses <i>development</i> dan <i>maintance</i>. Kemudian, juga dalam prosesnya, HTML memiliki hubungan erat dengan CSS dan JavaScript. CSS digunakan untuk styling, seperti background, warna, layout, spacing, dan animasi.<br /><br />Dan tugas JavaScript adalah memberikan sentuhan interaksi untuk memberikan sentuhan interaksi untuk memberikan pengalaman yang berbeda kepada user. JavaScript akan memberikan pengalaman dimana akan memungkinkan anda menambahkan fungsionalitas yang dinamis, seperti slider, pop-up, dan galeri foto.</p>
+:ET

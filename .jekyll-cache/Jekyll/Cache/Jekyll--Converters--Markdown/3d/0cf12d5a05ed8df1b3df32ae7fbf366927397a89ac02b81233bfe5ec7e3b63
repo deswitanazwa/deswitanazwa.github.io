@@ -1,48 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>friend</title>
-    <link rel="stylesheet" href="/assets/css/style.css">
-
-    <!-- javascript -->
-    <script src="/assets/js/script.js"></script>
-
-    <!-- plugins -->
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>friend</title>
-<meta name="generator" content="Jekyll v4.4.1" />
-<meta property="og:title" content="friend" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/friends.html" />
-<meta property="og:url" content="http://localhost:4000/friends.html" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="friend" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","headline":"friend","url":"http://localhost:4000/friends.html"}</script>
-<!-- End Jekyll SEO tag -->
-
-
-</head>
-<body>
-    <nav>
-    
-        <a href="/" >
-            Home
-        </a>
-    
-        <a href="/friends.html"  class="current">
-            Friends
-        </a>
-    
-        <a href="/blog.html" >
-            Blog
-        </a>
-    
-</nav>
-    <h1 id="friend-page">Friend Page</h1>
+I"W<h1 id="friend-page">Friend Page</h1>
 <p>Berikut adalah daftar teman-teman sayaa, jangan lupa untuk berkunjung ke blog mereka yaa!!</p>
 <ol>
   <li><a href="https://abadan1912.github.io/">Abadan Syakira</a></li>
@@ -73,7 +29,4 @@
   <li><a href="https://yumna03.github.io/">Yumna</a></li>
   <li><a href="https://zamharira09.github.io/">zamharira</a></li>
 </ol>
-
-    
-</body>
-</html>
+:ET
