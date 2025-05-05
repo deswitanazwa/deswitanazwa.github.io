@@ -1,4 +1,4 @@
-I"<p>penjelasan tentang link dan list pada html</p>
+I"œ<p>penjelasan tentang link dan list pada html</p>
 
 <li><b>LIST dalam HTML</b></li>
 <p>List merupakan cara penulisan yang sering digunakan untuk membuat daftar berurutan. Terdapat 3 macam list yang ada di HTML yaitu <b>ordered list</b>, <b>unordered list</b> dan <b>description list</b>. Cara membuat list di HTML tentunya berbeda-beda sesuai jenisnya. Ketiga macam list HTML tersebut juga memiliki tampilan dan fungsi yang berbeda.<br /><br />Perbedaan penulisan ketiga jenis ini terdapat pada pembuka dan penutupnya saja. Sedangkan untuk membuat item pada ordered dan unordered list menggunakan elemen yang sama yaitu &lt; li &gt; â€¦ &lt; /li &gt;. Untuk mengetahui lebih dalam masing-masing list tersebut kita akan bahas satu-persatu.</p>
@@ -17,7 +17,6 @@
 <i>pict by petani.kode.com</i></p>
 
 <p>Berdasarkan alamat URL ynag dituju, link pada HTML dibagi menjadi dua kelompok;</p>
-
 <ol type="1">
     <b><li>Internal Link</li></b>
     Internal link adalah link yang menuju ke domain atau halaman web itu sendiri. Masih berada didalam web, namun berpindah halaman-<i>page</i>.

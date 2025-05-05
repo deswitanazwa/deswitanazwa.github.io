@@ -22,7 +22,6 @@ Link atau <i>Hyperlink</i> adalah elemen HTML yang berfungsi menghubungkan suatu
 <i>pict by petani.kode.com</i>
 
 Berdasarkan alamat URL ynag dituju, link pada HTML dibagi menjadi dua kelompok;
-
 <ol type="1">
     <b><li>Internal Link</li></b>
     Internal link adalah link yang menuju ke domain atau halaman web itu sendiri. Masih berada didalam web, namun berpindah halaman-<i>page</i>.
