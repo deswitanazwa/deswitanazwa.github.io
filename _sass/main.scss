@@ -1,18 +1,78 @@
 head{
-    padding: 20px;
-    background-color: #f2f2f2;
+    
 }
 body{
+    text-align: left;
     background-color: #f4f3d1;
     color: black;
-    padding: 20px 120px;
-    border-radius: 10px;
+    padding: 100px;
+    border-radius: 100px;
     width: 500px;
-    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow:  0 8px 20px rgba(0.25, 0, 0, 0.25);
+}
+body h1{
+    color: rgb(105, 56, 13);
+    display: block;
+    background-color: rgb(219, 189, 161);
+    padding: 20px 50px;
+    border-radius: 8px;
+    text-align: center;
+}
+body p{
+    padding: 10px;
+    display: inline-block;
+    color: black;
+    border-radius: 8px;
+}
+body nav a{
+    text-decoration: none;
+    color: rgb(105, 56, 13);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+body nav a::after{
+    content:' ';
+    width: 0;
+    height: 3px;
+    background: #F5E1DA ;
+    position: absolute;
+    left: 0;
+    bottom: -6px; 
+    transition: 0.5s;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+body nav a:hover::after{
+    width: 100%;
+
 }
 .current{
-    padding: 5px;
+    padding: 5px 10px;
     border-radius: 8px ;
     background-color:wheat;
     display: inline-block;
 }
+body ul li a{
+    text-decoration: none;
+    color:  rgb(105, 56, 13);
+    display: block;
+    background-color: whitesmoke;
+    padding-bottom: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+body ul li a::after{
+    content: ' ';
+    width: 0;
+    height: 3px;
+    background: #F5E1DA ;
+    position: absolute;
+    left: 0;
+    bottom: -6px; 
+    transition: 0.5s;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+body ul li a:hover::after{
+    width: 100%;
+}
+

@@ -3,7 +3,7 @@ layout: default
 title: friend
 ---
 
-# Friend Page
+# FRIENDS PAGE
 Berikut adalah daftar teman-teman sayaa, jangan lupa untuk berkunjung ke blog mereka yaa!!
 1. [Abadan Syakira](https://abadan1912.github.io/)
 2. [Desi Nabila Sari](https://desynabilasari.github.io/)
@@ -13,7 +13,7 @@ Berikut adalah daftar teman-teman sayaa, jangan lupa untuk berkunjung ke blog me
 6. [Ikhsan Salsabily](https://isanbly06.github.io/)
 7. [Jihan Maulidia](https://jihanmaulidia09.github.io/)
 8. [M. fikri Sodri](https://mfikrisodri.github.io/)
-9. [mirza Feberany](https://mirzafeberanyy.github.io/mirzafeberany.github.io/)
+9. [Mirza Feberany](https://mirzafeberanyy.github.io/)
 10. [Muhammad Alfi syahrin](https://alfisyahrin-26.github.io/)
 11. [Muhammad Alif Arayyan](https://alifarrayyan29.github.io/)
 12. [Muhammad Aziz](https://mhmmd-aziz.github.io9/)
@@ -30,5 +30,5 @@ Berikut adalah daftar teman-teman sayaa, jangan lupa untuk berkunjung ke blog me
 23. [TM Dzaky maulana](https://akbar2224.github.io/akbar2224/)
 24. [tania Ananda Sari](https://taniaanandasari.github.io/)
 26. [Wildanun Hasanah](http://wildanunhasanah.github.io)
-27. [Yumna](https://yumna03.github.io/)
+27. [Yumna](https://yumna1711.github.io/)
 28. [zamharira](https://zamharira09.github.io/)
