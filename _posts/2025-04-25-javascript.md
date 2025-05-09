@@ -5,7 +5,6 @@ title: "JavaScript"
 
 penjelasan tentang javascript dalam HTML
 
-<b>JavaScript</b><br>
 <br>JavaScript adalah skip pemograman ringan yang umumnya digunakan oleh web developer untuk menciptakan interaksi yang lebih dinamis saat membuat halaman web, aplikasi, server, atau, game. JavaScript berfungsi untuk membuat elemen yang mampu meningkatkan interaksi pengunjung seperti menu drop-down, animasi, dan warna background dinamis. Web developer biasanya menggunakan JavaScript bersama HTML dan CSS karena ketiganya bisa bekerja sama tanpa masalah. JavaScript adalah skrip pemogramannya, HTML berfungsi untuk menyusun struktur website, dan CSS untuk mendesain serta mengatur layout halaman website.
 <br>
 
