@@ -5,6 +5,7 @@ title: friend
 
 # FRIENDS PAGE
 Berikut adalah daftar teman-teman sayaa, jangan lupa untuk berkunjung ke blog mereka yaa!!
+
 1. [Abadan Syakira](https://abadan1912.github.io/)
 2. [Desi Nabila Sari](https://desynabilasari.github.io/)
 3. [Deswita Nazwa Ariani](https://deswitanazwa.github.io/)
