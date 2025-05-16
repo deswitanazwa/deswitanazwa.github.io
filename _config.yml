@@ -1,3 +1,10 @@
+title: Deswita Nazwa Ariani
+email: deswitanaz10@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    A personal blog by Tania Ananda Sari, a student of Politeknik Negeri Lhokseumawe.
+    This blog is built using Jekyll and hosted on GitHub Pages.
+    The Contect is primarily in Indonesia, but some posts may be in Inglish.
+
 url: "https://deswitanazwa.github.io"
 
 plugins:
