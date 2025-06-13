@@ -31,17 +31,6 @@ main{
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     background-color: #f4f4f4;
     text-decoration: none;
-    h1{
-        color: rgb(105, 56, 13);
-        background-color: rgb(219, 189, 161);
-        padding: 20px 50px;
-        border-radius: 8px;
-        text-align: center;
-        }
-    p{
-        color: black;
-        padding: 1.5;
-        }
 }
 footer{
     text-align: center;
@@ -84,7 +73,7 @@ nav{
 }
 
 .container{
-    width: 80px;
+    width: 80%;
     margin: auto;
     overflow: hidden;
 }
@@ -93,7 +82,7 @@ nav{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    margin: 50px auto;
+    margin: 24px auto;
     background-color: $secondary-color;
     object-fit: cover;
 }
@@ -105,7 +94,7 @@ main ul{
     padding: 20px;
     .blog{
         display: block;
-        background-color: rgb(245, 221, 176);
+        background-color: #ffff;
         padding: 10px;
         border-radius: 10px;
         margin-bottom: 10px;
@@ -114,9 +103,9 @@ main ul{
             text-decoration: none;
         }
         &:hover{
-            background-color: $primary-color;
+            background-color: lightgray;
             border-radius: 10px;
-            color: red;
+            color: black;
             padding-bottom: 10px;
             padding: 20px;
             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
